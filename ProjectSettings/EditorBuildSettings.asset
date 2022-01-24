@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 46ef0597aa6955b4c9a7ed2852d5cf0f
+  - enabled: 1
+    path: Assets/Scenes/Tyler_Test_Scene.unity
+    guid: 2e659422c35e3774b9b4d0831d5b8bad
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
